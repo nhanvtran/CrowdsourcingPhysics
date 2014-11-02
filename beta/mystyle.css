@@ -1,17 +1,19 @@
   body {
-    padding-left: 1em;
+    padding-left: 24em;
+    padding-top: 1em;
     font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif ;
     color: #000066;
-    background-color: #999999 }
+    background-color: #999999;
+    width: 800px; }
 
   ul.navbar2 {
     list-style-type: none;
     padding: 0;
     margin: 0;
     position: absolute;
-    top: 15em;
+    top: 1em;
     left: 1em;
-    width: 12em }
+    width: 10em }
   
   ul.navbar2 li {
     background: white;
@@ -27,9 +29,9 @@
     padding: 0;
     margin: 0;
     position: absolute;
-    top: 15em;
-    left: 14em;
-    width: 12em }
+    top: 1em;
+    left: 12em;
+    width: 10em }
   
   h1 {
     font-family: Helvetica, Geneva, Arial,
@@ -60,8 +62,9 @@
     padding: 0;
     margin: 0;
     position: absolute;
-    top: 15em;
-    left: 28em;
+    top: 19em;
+    left: 24em;
     font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif ;
+    width: 800px;
   }
 
